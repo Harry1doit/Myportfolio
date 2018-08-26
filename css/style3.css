@@ -94,7 +94,7 @@ body {
 .site-title-sub {
   margin: 0 0 30px;
   letter-spacing: 1px;
-  font-size: 2.1rem;
+  font-size: 2rem;
 }
 .site-title-sub::before,
 .site-title-sub::after {
