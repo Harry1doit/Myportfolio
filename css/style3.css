@@ -48,9 +48,9 @@ body {
   padding: 20px;
   border-radius: 4px;
   background-color: #F4B393;
-  color: #fff;
-  text-decoration: none;
-  font-weight:bold;
+  color:#fff;
+ text-decoration: none;
+ font-weight:bold;
   letter-spacing: 1px;
   font-size: 1.2rem;
 }
@@ -94,7 +94,8 @@ body {
 .site-title-sub {
   margin: 0 0 30px;
   letter-spacing: 1px;
-  font-size: 1.8rem;
+  font-size: 2.2rem;
+  font-weight:bold;
 }
 .site-title-sub::before,
 .site-title-sub::after {
@@ -195,7 +196,7 @@ body {
   transform: scaleY(-1);
 }
 .work-box.tree::after {
-  background-image: url('../images/tree.jpg');
+  background-image: url('../images/summer.jpg');
 }
 .work-box.building::after {
   background-image: url('../images/building.jpg');
