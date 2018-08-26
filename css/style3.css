@@ -196,7 +196,7 @@ body {
   transform: scaleY(-1);
 }
 .work-box.tree::after {
-  background-image: url('../images/summer.jpg');
+  background-image: url('../images/tree.jpg');
 }
 .work-box.building::after {
   background-image: url('../images/building.jpg');
