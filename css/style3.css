@@ -47,9 +47,10 @@ body {
   width: 200px;
   padding: 20px;
   border-radius: 4px;
-  background-color: #afa58d;
-  color: #fff;
+  background-color: #F4B393;
+  color: #412722;
   text-decoration: none;
+  font-weight:bold;
   letter-spacing: 1px;
   font-size: 1.2rem;
 }
@@ -57,7 +58,7 @@ body {
   opacity: 0.9;
 }
 .button-showy {
-  background-color: #D29E04;
+  background-color: #AAFAC8;
 }
 .button-ghost {
   border: 1px solid #fff;
