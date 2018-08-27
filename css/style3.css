@@ -196,16 +196,16 @@ body {
   transform: scaleY(-1);
 }
 .work-box.tree::after {
-  background-image: url('../images/gossip.jpg');
+  background-image: url('../images/HG.jpg');
 }
 .work-box.building::after {
   background-image: url('../images/DH2.jpg');
 }
 .work-box.lake::after {
-  background-image: url('../images/lake.jpg');
+  background-image: url('../images/suits.jpg');
 }
 .work-box.sky::after {
-  background-image: url('../images/sky.jpg');
+  background-image: url('../images/gossip.jpg');
 }
 .work-box:nth-child(odd) .work-image {
   margin: 60% 0 0;
