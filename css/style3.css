@@ -7,7 +7,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  background-color: #363537;
+  background: #363537;
   background-size: cover;
   color: #fff;
   text-align: center;
@@ -140,7 +140,7 @@ body {
  * -------------------------------- */
 .works {
   padding: 80px 0;
-  background-color:#000009;
+  background-color: #000009;
 }
 .works-wrapper {
   display: table;
